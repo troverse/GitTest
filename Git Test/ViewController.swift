@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonClicked(_ sender: UIButton) {
-        print("You Finished"")
+        print("You Finished")
     }
 
     override func didReceiveMemoryWarning() {
